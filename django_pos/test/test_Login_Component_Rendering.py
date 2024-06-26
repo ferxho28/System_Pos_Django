@@ -22,3 +22,4 @@ def test_login_component_renders_correctly(browser):
     assert username_input.is_displayed()
     assert password_input.is_displayed()
     assert login_button.is_displayed()
+
