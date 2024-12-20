@@ -28,7 +28,7 @@ SIFS es una aplicación de sistema de punto de venta (POS) desarrollada en Djang
 
 2. **Crear un Entorno Virtual:**
    ```bash
-   python -m venv env
+   python3 -m venv nombre_del_entorno
    source env/bin/activate  # En Windows: env\Scripts\activate
    ```
 
